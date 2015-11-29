@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 792 612" enable-background="new 0 0 792 612" xml:space="preserve">
-<circle fill="none" stroke="#ED5A2A" stroke-width="19" stroke-miterlimit="10" cx="395.8" cy="305.3" r="225.7"/>
-<line fill="none" stroke="#ED5A2A" stroke-width="19" stroke-miterlimit="10" x1="238.5" y1="143.5" x2="543.9" y2="475.7"/>
-<line fill="none" stroke="#ED5A2A" stroke-width="19" stroke-miterlimit="10" x1="558.1" y1="151.6" x2="225.9" y2="457.1"/>
+	 viewBox="376 -286 792 612" style="enable-background:new 376 -286 792 612;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<path class="st0" d="M1102.2-220H445.8c-16.4,0-29.8,13.4-29.8,29.8v377.9c0,16.4,13.4,29.8,29.8,29.8h268.5v79.6h-69.6
+	c-16.4,0-29.8,4.5-29.8,9.9c0,5.5,13.4,9.9,29.8,9.9h258.6c16.4,0,29.8-4.5,29.8-9.9c0-5.5-13.4-9.9-29.8-9.9h-69.6v-79.6h268.5
+	c16.4,0,29.8-13.4,29.8-29.8v-377.9C1132-206.5,1118.6-220,1102.2-220z M1108.1,191.7H441.8v-387.8h666.3V191.7z"/>
 </svg>
